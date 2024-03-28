@@ -1,0 +1,10 @@
+.head1
+{
+    color: aqua;
+    background-color: blue;
+    background-image:linear-gradient(pink,green,black);
+}
+.about
+{
+    color: pink;
+}

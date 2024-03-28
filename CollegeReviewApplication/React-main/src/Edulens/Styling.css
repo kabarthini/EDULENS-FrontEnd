@@ -1,0 +1,108 @@
+.text1
+{
+    position: absolute;
+    left: 854px;
+    top: 260px;
+    font-size: 48px;
+    font-style: Bold;
+    color: white;
+}
+.img1
+{
+   padding-bottom: 20px;
+   width: 1510px;
+   
+}
+.rectangle
+{
+    width: 1510px;
+    height: 63px;
+    top: 35px;
+    background-color: #391C5E;
+}
+.text2
+{
+    top: 837px;
+    left: 111px;
+    font-size: 60px;
+    font-family: Inter;
+    font-style: Extra Light;
+    color: #000000;
+    width: 1510px;
+    height: 58px;
+} 
+.img2
+{
+    position: absolute;
+    left: 111px;
+    top:1400px;
+    width: 357px;
+    height: 333px;
+}
+.aaa{
+    
+    border-radius: 50%;
+}
+.getstart
+{
+    position: absolute;
+    left: 553px;
+    top: 1864px;
+    height: 234px;
+    width: 457px;
+}
+.rectangle2
+{
+    position: absolute;
+    height: 54px;
+    width: 856px;
+    left: 449px;
+    top: 1692px;
+    background-color: rgba(239, 19, 56, 0.54);;
+}
+.rtext
+{
+    position: absolute;
+    left: 439px;
+    top:1649px;
+    font-size: 42px;
+}
+.edu
+{
+    position: absolute;
+    width: 159px;
+    height: 155px;
+    left: 476px;
+    top: 1335px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 128px;
+    line-height: 155px;
+    color: #000000;
+
+}
+.lens
+{
+    position: absolute;
+    left: 573.31px;
+    top: 1490px;
+    transform: rotate(90.54deg);
+    width: 221.79px;
+    height: 137.71px;
+}
+.last
+{
+    position: absolute;
+    position: absolute;
+    width: 280px;
+    height: 155px;
+    left: 737px;
+    top: 1335px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 128px;
+    line-height: 155px;
+    color: #000000;
+}
